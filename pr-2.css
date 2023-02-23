@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+
+
+
+body{
+
+    background-image: url("./tree-736885_1280.jpg");
+
+}
+#open-btn{
+    position: relative;
+    top: 460px;
+    left: 60px;
+    border: 2px solid red;
+    width: 200px;
+    border-radius: 10px;
+    padding: 20px;
+
+}

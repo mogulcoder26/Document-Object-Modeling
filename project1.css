@@ -1,0 +1,19 @@
+li{
+    list-style-type: none;
+    font-size: 50px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.list{
+    background-color: azure;
+    margin: 10px;
+}
+
+body{
+    background-image: url("C://Users//KIIT//Desktop//Memories//download.jpg");
+    background-size: 100% ;
+}
